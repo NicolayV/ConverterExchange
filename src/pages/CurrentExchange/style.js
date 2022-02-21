@@ -21,7 +21,7 @@ export const styles = {
     "& > :not(style)": {
       m: 1,
       width: 600,
-      height: 500,
+      minHeight: 500,
     },
   },
 };
